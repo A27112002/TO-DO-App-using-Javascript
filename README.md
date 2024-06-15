@@ -1,1 +1,2 @@
 # TO-DO-App-using-Javascript
+A "TO DO" app is a simple, user-friendly application designed to help users manage their tasks and events efficiently. In this app, users can easily add new events or tasks by specifying details such as the title. Once an event is completed or no longer needed, users can delete it from their list, ensuring that their schedule remains organized and up-to-date. The app typically features an intuitive interface that allows for quick task management, helping users stay productive and on top of their responsibilities. 
